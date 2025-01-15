@@ -1,7 +1,7 @@
-package study.data_jpa.repository;
+package study.datajpa.repository;
 
 import org.springframework.stereotype.Repository;
-import study.data_jpa.entity.Team;
+import study.datajpa.entity.Team;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
